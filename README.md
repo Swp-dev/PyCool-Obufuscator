@@ -18,7 +18,6 @@ PyCool V4 is a next-generation Python obfuscator designed to protect Python sour
 
 * static analysis
 * reverse engineering
-* AI deobfuscation
 * debugging
 * sandbox execution
 * MITM interception
@@ -81,13 +80,11 @@ Benefits:
 
 * destroys readability
 * breaks regex tooling
-* confuses AI deobfuscators
-
 ---
 
 # VM-Based Payload Execution
 
-PyCool V4 includes a fake virtual machine executor with:
+PyCool includes a fake virtual machine executor with:
 
 * stack/register structures
 * runtime staged decryption
@@ -214,17 +211,6 @@ Includes:
 
 ---
 
-# AI Deobfuscation Resistance
-
-PyCool V4 is specifically designed to:
-
-* overwhelm AI deobfuscators
-* create high entropy ASTs
-* destroy symbolic readability
-* inflate meaningless execution paths
-
----
-
 # Status
 
 ⭐ 10 STARS = PUBLIC SOURCE ⭐
@@ -237,7 +223,7 @@ If this repository reaches:
 
 The full source code of:
 
-* PyCool V4
+* PyCool 
 * VM executor
 * RC4 engine
 * junk generator
@@ -249,13 +235,13 @@ will be released publicly.
 
 # 🇻🇳 Tiếng Việt
 
-# PyCool V4 — Ultimate Python Obfuscator
+# PyCool — Ultimate Python Obfuscator
 
 > được phát triển bởi Trương Nhật Bảo Nam - ktn1703
 
 ## Giới thiệu
 
-PyCool V4 là một Python obfuscator thế hệ mới được tạo ra để:
+PyCool là một Python obfuscator thế hệ mới được tạo ra để:
 
 * bảo vệ source code
 * chống reverse engineering
@@ -265,7 +251,7 @@ PyCool V4 là một Python obfuscator thế hệ mới được tạo ra để:
 * chống MITM/proxy
 * chống runtime instrumentation
 
-PyCool V4 kết hợp:
+PyCool kết hợp:
 
 * Virtual Machine execution
 * multi-layer encryption
@@ -309,8 +295,6 @@ Lợi ích:
 
 * cực khó đọc
 * phá regex tooling
-* làm AI deobfuscator rối
-
 ---
 
 # VM-Based Payload Execution
@@ -416,18 +400,6 @@ Bao gồm:
 * fake execution path
 
 20+ pattern khác nhau.
-
----
-
-# AI Resistance
-
-PyCool V4 được thiết kế để:
-
-* làm AI deobfuscator bị overwhelm
-* tăng entropy AST
-* phá symbolic readability
-* inflate CFG
-
 ---
 
 # Status
@@ -442,7 +414,7 @@ Nếu repository đạt:
 
 Toàn bộ source code:
 
-* PyCool V4
+* PyCool 
 * VM executor
 * RC4 engine
 * junk generator
@@ -454,7 +426,7 @@ sẽ được public.
 
 # Author
 
-PyCool V4
+PyCool
 By Truong Nhat Bao Nam - ktn1703
 
 --- 
