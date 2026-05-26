@@ -23,7 +23,7 @@ PyCool is a next-generation Python obfuscator designed to protect Python source 
 * MITM interception
 * runtime instrumentation
 
-PyCool V4 combines:
+PyCool combines:
 
 * VM-based execution
 * multi-layer encryption
